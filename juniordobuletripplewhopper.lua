@@ -189,7 +189,7 @@ v18.BorderColor3 = Color3.fromRGB(157, 89, 0);
 v18.Position = UDim2.new(0.408637881, 0, 0.184065938, 0);
 v18.Size = UDim2.new(0, 200, 0, 39);
 v18.Font = Enum.Font.SourceSansBold;
-v18.Text = "Baseball Bat (Leaked Script)";
+v18.Text = "Baseball Bat";
 v18.TextColor3 = Color3.fromRGB(255, 255, 255);
 v18.TextSize = 19;
 v19.Parent = v1;
@@ -886,7 +886,7 @@ local function v273()
 		game.StarterGui:SetCore("SendNotification", {Title="Force FE Disabler",Text="Take 3",Icon="rbxasset://1202200125",Duration=2,Callback=NotificationBindable});
 		wait(0.1);
 		game.StarterGui:SetCore("SendNotification", {Title="Force FE Disabler",Text="success",Icon="rbxassetid://1202200125",Duration=420420420420,Button1="alr thx bro",Callback=NotificationBindable});
-		game.StarterGui:SetCore("SendNotification", {Title="FE Baseball Bat Leaked",Text="now go rekt da kids",Icon="rbxassetid://1609077907",Duration=5,Callback=NotificationBindable});
+		game.StarterGui:SetCore("SendNotification", {Title="FE Baseball Bat",Text="now go rekt da kids",Icon="rbxassetid://1609077907",Duration=5,Callback=NotificationBindable});
 		local v613 = game.Players.LocalPlayer;
 		local v614 = Instance.new("Tool", v613.Backpack);
 		v614.GripPos = Vector3.new(0.1, -1, 0);
